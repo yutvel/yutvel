@@ -3,13 +3,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/yutvel?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [TakeIn](https://takein.com/),
+- 🔭 I’m currently working on [MAHS](https://mahs.com/),
 
-- 🌱 I’m currently learning **Flutter, SwiftUI**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+- ⚡ Fun fact **I love to play futball.**
 
 ### Connect with me:
 
