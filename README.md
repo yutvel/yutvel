@@ -30,9 +30,18 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="22" height="22"/> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutvel&layout=compact&hide=html" alt="yutvel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yutvel&show_icons=true" alt="yutvel" /></p>
+
 
