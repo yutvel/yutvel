@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yutvel</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">An electrical engineer passionate about programming and new technologies.😜</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/yutvel?logo=GitHub&style=for-the-badge)
 
