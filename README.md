@@ -10,7 +10,7 @@
 ### 🛠 Sobre mí:
 - 🔭 Actualmente trabajando en **[MAHS](https://mahs.com/)**
 - 🌱 Aprendiendo **Flutter**
-- 👯 Buscando colaborar con **otros creadores de contenido**
+- 👯 Buscando colaborar con **otros desarrolladores**
 - ⚡ Dato curioso: **Me encanta jugar al fútbol.**
 
 ---
