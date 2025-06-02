@@ -9,9 +9,7 @@
 
 ### 🛠 Sobre mí:
 - 🔭 Actualmente trabajando en **MAHS**
-- 🌱 Aprendiendo **Flutter**
-- 👯 Buscando colaborar con **otros desarrolladores**
-- ⚡ Dato curioso: **Me encanta jugar al fútbol.**
+- ⚡ Dato curioso: **Me encanta el fútbol.**
 
 ---
 
