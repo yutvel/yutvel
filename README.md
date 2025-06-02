@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, soy Yutvel</h1>
 <h3 align="center">Ingeniero eléctrico apasionado por la programación y las nuevas tecnologías. 🚀</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/yutvel?logo=GitHub&style=for-the-badge" alt="Seguidores en GitHub" />
-</p>
-
 ---
 
 ### 🛠 Sobre mí:
