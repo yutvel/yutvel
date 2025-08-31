@@ -34,6 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="CSS3" width="40" height="40"/> 
 </p>
 
 
